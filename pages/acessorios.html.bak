@@ -13,18 +13,18 @@
 				<!--Lista não ordenada-->
 				<ul class="navbar-nav">
 					<!--item da lista-->
-					<li class="nav-item active">
+					<li class="nav-item">
 						<!--Link vazio-->
-						<a class="nav-link" href="#">Home</a>
+						<a class="nav-link" href="../index.html">Home</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="pages/roupas.html">Roupas</a>
+						<a class="nav-link" href="roupas.html">Roupas</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="pages/calcados.html">Calçados</a>
+						<a class="nav-link" href="calcados.html">Calçados</a>
 					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="pages/acessorios.html">Acessórios</a>
+					<li class="nav-item active">
+						<a class="nav-link" href="#">Acessórios</a>
 					</li>
 				</ul>
 			</div>
@@ -56,27 +56,27 @@
 				</nav>
 			</div>
 			<div class="col-sm-9">
-				<h1>HardGym</h1>
+				<h1>HardGym - Acessórios</h1>
 				<div class="row">
 					<div class="float-left m-2 col-sm-4">
-						<img src="../img/acessorios/corda.jpg" type="img/jpg" alt="Corda" width="auto" height="150px"/>
+						<img src="../img/acessorios/alça.jpg" type="img/jpg" alt="alça" width="auto" height="150px"/>
 					</div>
 					<div class="float-left m-2 col-sm-4">
-						<img src="img/sapo sad.jpg" type="img/jpg" alt="Sad" width="auto" height="150px"/>
+						<img src="../img/acessorios/bracelete.jpg" type="img/jpg" alt="Sad" width="auto" height="150px"/>
 					</div>
 					<div class="float-left m-2 col-sm-4">
-						<img src="img/hipocrisia.jpg" type="img/jpg" alt="Hipocrisia" width="auto" height="150px"/>
+						<img src="../img/acessorios/corda.jpg" type="img/jpg" alt="corda" width="auto" height="150px"/>
 					</div>
 					<div class="float-left m-2 col-sm-4">
-						<img src="img/cat-flyer.jpg" type="img/jpg" alt="Gato Voador" width="auto" height="150px"/>
+						<img src="../img/acessorios/peso.jpg" type="img/jpg" alt="peso" width="auto" height="150px"/>
 					</div>
 					<div class="float-left m-2 col-sm-4">
-						<img src="img/perdemo.jpg" type="img/jpg" alt="Perdemo" width="auto" height="150px"/>
+						<img src="../img/acessorios/pesos.jpg" type="img/jpg" alt="Pesos" width="auto" height="150px"/>
 					</div>
 					<div class="float-left m-2 col-sm-4">
 						<img src="img/dorimé.jpg" type="img/jpg" alt="Dorimé" width="auto" height="150px"/>
 					</div>
-				</div>
+				</div>\	
 			</div>
 		</div>
 	</body>
